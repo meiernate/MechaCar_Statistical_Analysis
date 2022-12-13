@@ -32,7 +32,7 @@ We will use the following methodology and using the summary data returned from o
 1. Examine the mean, median and variance in total (total_summary) to determine if the variance is within the 100 pounds per square inch.
 
 ![Req2_Part1](Analysis/Req2_Part1.png)
-![Req2_Part2](Analysis/Req2_Part2.png)
+![Req2_Part2](Analysis/Req2_Part_2.png)
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
